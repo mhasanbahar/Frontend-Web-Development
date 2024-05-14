@@ -1,0 +1,1 @@
+### index.html file contains the Self-introduction section, which is included in the HTML training project I received from Kodluyoruz.org.
