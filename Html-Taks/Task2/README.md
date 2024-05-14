@@ -1,0 +1,1 @@
+### index.html file. I shared the project of the HTML training I received from Kodluyoruz.org, along with the links and summaries of the movies and TV series that I am interested in.
